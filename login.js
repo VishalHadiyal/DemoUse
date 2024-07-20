@@ -1,4 +1,4 @@
-var usename = vishal_Hadiyal
-var password = test123
+var usename = "vishal_Hadiyal";
+var password = "test123";
 
-console.log(`${usename} + ${password}`);
+console.log(`${usename}${password}`);
