@@ -34,3 +34,4 @@ function multiplyNumbers(num1, num2, num3) {
   console.log("The product of 200, 700, and 1300 is:", product);
   
 //   --------------------------------------------------------------------------
+console.log(ytrrtyu;
